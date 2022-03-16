@@ -17,3 +17,14 @@ Just trying to freshen up on the basics of UDP and TCP
 ### Next steps
 
 Implement a LAN chat room using UDP
+
+
+### Chat room
+
+* Open sockets for chat room
+* If STDIN for all messages
+* Create debug and production modes where confirmation messages are sent
+
+#### How to structure code
+
+1. Open channel, display messages on both ends
