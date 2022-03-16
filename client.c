@@ -10,7 +10,7 @@
 
 #define PORT	 8080
 #define MAXLINE 1024
-#define MSG_CONFIRM 0
+#define MSG_CONFIRM 0 // workaround for compile error not finding the flag
 
 // Driver code
 int main() {
